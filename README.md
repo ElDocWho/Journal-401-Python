@@ -1,2 +1,7 @@
-# Journal-401-Python
-Daily Journal
+#Daily Journal
+
+**Day 1**
+
+I was in the hospital, so I did not have a lot of time to learn python this day.
+
+
